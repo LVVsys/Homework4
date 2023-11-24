@@ -89,7 +89,6 @@ public class Main {
         int one = 10;
         int two = 2000;
         int three = 300;
-
         if (one > two && one > three) {
             System.out.println("one - наибольшее число");
         } else if (two > one && two > three) {
